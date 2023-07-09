@@ -1,6 +1,6 @@
 # Project Overview: Curium 5
 
-![Banner Image](media/banner.png)
+![Banner Image](https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/banner.png)
 
 The Curium 5 project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch spot won at the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition). The mission aims to foster a profound technical comprehension and open development environment, instrumental in the creation of high-quality components at prices significantly below market rates. The knowledge and expertise gained from this endeavor will prove beneficial for future open-source satellite missions.
 
@@ -8,11 +8,11 @@ Lastly, the deployment of commercial hardware of consumer and industrial quality
 
 <div style="display: flex; justify-content: space-evenly;">
   <figure>
-    <img src="media/pcb.png" alt="PCB Image" width="512">
+    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/pcb.png" alt="PCB Image" width="512">
     <figcaption>PCB assembly</figcaption>
   </figure>
   <figure>
-    <img src="media/dispenser.png" alt="Dispenser Image" width="512">
+    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/dispenser.png" alt="Dispenser Image" width="512">
     <figcaption>dispenser design</figcaption>
   </figure>
 </div>
