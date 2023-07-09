@@ -8,11 +8,11 @@ Lastly, deploying commercial hardware of consumer and industrial quality can dem
 
 <div style="display: flex; justify-content: space-evenly;">
   <figure>
-    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/pcb.png" alt="PCB Image" width="512">
+    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/pcb.png" alt="PCB Image" width="400">
     <figcaption>PCB assembly</figcaption>
   </figure>
   <figure>
-    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/dispenser.png" alt="Dispenser Image" width="512">
+    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/dispenser.png" alt="Dispenser Image" width="400">
     <figcaption>dispenser design</figcaption>
   </figure>
 </div>
