@@ -7,13 +7,14 @@ The Curium 5 project is designed around the development of 6U CubeSats, using co
 Lastly, deploying commercial hardware of consumer and industrial quality can demonstrate the feasibility and cost-effectiveness of these components for space missions. We are also considering involving external stakeholders in payload development. A collaboration with the German Aerospace Center and the University of Vienna will facilitate the integration of a novel, laser-based quantum computer, marking its inaugural deployment in space.
 
 <div style="display: flex; justify-content: space-evenly;">
+   <figure>
   <figure>
-    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/pcb.png" alt="PCB Image" width="400">
-    <figcaption>PCB assembly</figcaption>
+    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/pcb.png" alt="PCB Image" width="500">
   </figure>
   <figure>
-    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/dispenser.png" alt="Dispenser Image" width="400">
-    <figcaption>dispenser design</figcaption>
+    <img src="https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/dispenser.png" alt="Dispenser Image" width="500">
+  </figure>
+     <figcaption>PCB assembly & dispenser design</figcaption>
   </figure>
 </div>
 
