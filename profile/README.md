@@ -27,11 +27,12 @@ The Curium 5 CubeSat mission aims at pushing the limits of what's achievable in 
 - Using hardware and software based on UpSat, but customized to suit our needs.
 - Utilizing the SatNOGS ground station network for uplink and downlink.
 
-# Team
+# Team & Research
 
 We are a student team of six: Paul (space engineering, TU Berlin), Jakob (space engineering, TU Berlin), Johann (business, HU Berlin), Johannes (engineering, TU Berlin), Toni (computer science, DLR & university of vienna), Marcus (computer science, Hasso-Plattner-Institue), Pujan (mechanical engineering, TU Berlin).
 
 In cooperation with HPI [operating system and middleware chair](https://osm.hpi.de) the project will include research for a master thesis.
+In cooperation with University of Viennas [walther group](https://walther.quantum.at) and [DLR remote sensing institute](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/) a laser-based quantum computer will be developed as satellite payload and part of an PHD. 
 
 ## Technical Specifications
 
