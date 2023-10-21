@@ -16,6 +16,11 @@ Lastly, deploying commercial hardware of consumer and industrial quality can dem
   </figure>
      <figcaption>PCB assembly & dispenser design</figcaption>
   </figure>
+  <figure>
+    <img src="https://github.com/Curium-Five/.github/assets/4999364/a55bb013-2740-49e6-a685-60fcc72acb61" alt="Dispenser Image" width="400">
+  </figure>
+     <figcaption>Mechanical prototype</figcaption>
+  </figure>
 </div>
 
 ## Project Goals
