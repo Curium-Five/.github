@@ -63,7 +63,7 @@ Based on on [Upsat](https://nchronas.github.io/upsat_msc_thesis/#obc), [Qubik](h
 - Antenna: simple monopole antennas with orthogonal radiation patterns to achieve quasi-isotropic radiation properties.
 
 ### Data Handling (OBC)
-- Computer: STM32F4 based
+- Computer: STM32H7 based
 
 ### Payload
 - Sensors:
